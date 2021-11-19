@@ -1,0 +1,131 @@
+*=completed
+ =uncompleted
+^=Uploaded
+
+Change-log Update*^
+-Changelog*^
+
+Glitch Colour*^
+-Main Glitch in Main Folder*^
+-added glitch folder into colour*^
+-created 1 glitch for each colour*^
+-deleted "glitch" folder*^
+//Wondering if I'll ever use these anyway
+-updated changelog*^
+
+Old Folder Changing*^
+-Bricks*^
+-Gem Blocks*^
+-updated changelog*^
+
+Rock*^
+-Created \Parts\Rock*^
+-Created \Parts\Bridge*^
+-Rock moved to old*^
+-New "rock" in items*^
+-Added "RockLeft" "RockMiddle" "RockRight" in parts\Rock*^
+-Changed "Bridge" to "bridge middle"*^
+-Moved the bridges into \Parts\Bridge*^
+-Added "RockBottom" to \parts\rock*^
+-Added "Metryingtotessalate.pdn" "mesuccedingtotessalate.pdn" "yaytessalate" to \templates*^
+-Added TreeStump in \Templates*^
+-Added TreeTriangle in \Templates*^
+-updated changelog*^
+
+Update 1.1*^
+-Added Tree in \items*^
+-Added \Colour\Baubles*^
+-Skin Colour (Change in all colours)*^
+-Plaster blocks in \main*^
+-Tilly character*^
+-Move Neon in old*^
+-"MoveFull" in icons*^
+-"Back" (\main) changed to \icons*^
+-"correct" "incorrect" "half-right" \main moved to \icons*^
+-Terracotta and stained glass colour types*^
+-Black-White colour added*^
+-Black-White in backgrounds*^
+-Brick2 in colours*^
+-liquid drops*^
+
+Update 1.2 (publicize)
+-Settings app in \icons*
+-App in \templates*
+-1337 and Bars in \backgrounds*
+-grass in \misc
+-Bad laser, good laser, cake, calc, target in items*
+
+Update 1.3 (Salt)
+-Camo in templates*^
+-Sea salt in gem blocks*^
+-Sea salt in ore*^
+-Sea salt in gems*^
+-OreTmp in templates*^
+-Rock Salt in gem blocks*^
+-Rock salt in gems*^
+-rock salt in ore*^
+-jade template in old*^
+-jade in template*^
+-cobalt in ore,gem,gemblocks*^
+-Pizza in parts*^
+-Pizza folder*^
+-Pizza ore,gem,gemstone*^
+-PeperoniSlice.pdn Templates*^
+
+Update 1.4 ULTRA*
+-Purple acid*^
+-Log in items*^
+-Bridge in _main*^
+-concrete ore*^
+-Planks*^
+-DarkStone*^
+-Cactus*^
+-Torch*^
+-TorchLit*^
+-TorchCharred*^
+-TorchCharredLit*^
+-RedTorch*^
+-RedTorchLit*^
+-Brick2 template*^
+-Sandstone*^
+-Vegetation folder*^
+-LightBlock*^
+-LightBlockGlowing*^
+-CheeseStone*^
+-RedRock*^
+-Farmland*^
+-uncool + uncooler block*^
+-tnt demonstration*^
+
+Update 1.4.1 tools
+-Stick*^
+-Pickaxe in templates*
+-Sword in templates*
+-hoe in templates*
+-spades in template*
+-Gem tools*^
+-Hoe*^
+-Pickaxe*^
+-Spades*^
+-Sword*^
+-Hammer*^
+-Bullet*^
+-Doorknob*^
+-Bucket*^
+
+--NEW CHANGELOG--
+
+-Asphalt as ore*^
+-CheeseStone as ore*^
+-darkstone as ore*^
+-moonrock as ore*^
+-wood as ore*^
+-rubber as ore*^
+-RedRock as ore*^
+-Tire in items*^
+-Cool Target in misc*^
+-Sprinkle Item*^
+-Sprinkle2 Item*^
+-Donut Template*^
+-Donut In items*^
+-Changelog*^

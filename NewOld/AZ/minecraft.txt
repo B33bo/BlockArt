@@ -1,0 +1,302 @@
+activator rail
+air
+ancient debris
+andesite
+anvil
+bamboo
+banners
+barrel
+barrier
+basalt
+beacon
+bed
+bedrock
+bee nest
+beehive
+bell
+blackstone
+blast furnace
+block of coal
+block of diamond
+block of emerald
+block of gold
+block of iron
+block of netherite
+block of quartz
+block of redstone
+block of ruby
+blocks
+blue ice
+bone block
+bookshelf
+border
+box of infinite books
+brewing stand
+bricks
+button
+cactus
+creeper head
+cake
+camera
+campfire
+carpet
+cartography table
+cauldron
+chain
+chest
+chiseled nether bricks
+chiseled polished blackstone
+chiseled quartz block
+chiseled sandstone
+chiseled stone bricks
+chorus plant
+clay block
+coal ore
+coarse dirt
+cobblestone
+cobweb
+cocoa pods
+cog
+colored torch
+command block
+composter
+compound creator
+concrete
+concrete powder
+conduit
+coral
+coral block
+coral fan
+corn
+cracked nether brick
+cracked polished blackstone bricks
+cracked stone bricks
+crafting table
+crying obsidian
+cut sandstone
+cut sandstone
+dark prismarine
+data values
+daylight sensor
+dead bush
+detector rail
+diamond ore
+diorite
+dirt
+dirt slab
+dispenser
+door
+dragon egg
+dried kelp block
+dropper
+element constructor
+emerald ore
+enchantment table
+end gateway (block)
+end portal frame
+end rod
+end stone
+end stone brick
+ender chest
+ender crystal
+farmland
+fence
+fence gate
+fire
+fletching table
+flower pot
+flowers
+frosted ice
+fungus
+furnace
+gilded blackstone
+glass
+glass pane
+glazed terracotta
+glowing obsidian
+glowstone
+gold ore
+granite
+grass
+grass path
+gravel
+grindstone
+head
+hardened glass
+hardened glass pane
+hay bale
+heads
+honey block
+honeycomb block
+hopper
+huge fungus
+huge mushrooms
+ice
+illager banner
+infested block
+infinite water source
+iron bars
+iron ore
+item frame
+jack o' lantern
+jigsaw block
+jukebox
+kelp
+ladder
+lantern
+lapis lazuli block
+lapis lazuli ore
+lava
+leaves
+lectern
+lever
+light block
+lily pad
+liquids
+list of plants
+locked chest
+lodestone
+log
+loom
+magma block
+material reducer
+melon
+melon seeds
+minecart with chest
+missing texture block
+mossy cobblestone
+mossy stone bricks
+mud
+mushrooms
+mycelium
+natural blocks
+nether brick block
+nether brick fence
+nether leaves
+nether planks
+nether quartz ore
+nether quartz pillar
+nether reactor core
+nether roots
+nether sprouts
+nether wart
+nether wart block
+netherrack
+note block
+nylium
+observer
+obsidian
+ore
+packed ice
+player head
+painting
+piston
+podzol
+polished blackstone bricks
+polished diorite
+powered rail
+pressure plates
+prismarine
+prismarine brick
+pumpkin
+purpur block
+purpur pillar
+quartz bricks
+quartz
+rail
+red nether brick
+red sand
+red sandstone
+redstone comparator
+redstone lamp
+redstone ore
+redstone repeater
+redstone torch
+redstone wire
+repeating command block
+respawn anchor
+sand
+skeleton head
+sandstone
+saplings
+scaffolding
+sea grass
+sea lantern
+sea pickle
+seeds
+shroomlight
+shrub
+shulker box
+sign
+slab
+slime block
+smithing table
+smoker
+smooth quartz
+smooth sandstone block
+smooth stone
+snow
+snow block
+snowier snow
+soul lantern
+soul sand
+soul soil
+soul torch
+spawner
+spikes
+sponge
+stained glass
+stained glass pane
+stairs
+sticky piston
+stone
+stone bricks
+stonecutter
+stripped log
+structure block
+structure void
+sugar cane
+sweet berry bush
+tnt
+tall grass
+target
+technical blocks
+terracotta
+torch
+torches
+trapdoor
+trapped chest
+tree/gallery
+tripwire hook
+turtle egg
+twisting vines
+underwater tnt
+underwater torch
+update game block
+vines
+walls
+warped wart block
+water
+wax block
+weeping vines
+wet sponge
+wither rose
+wood
+wood planks
+wooden slabs
+wool
+wool/gallery
+world border
+yellow banner
+yellow bed
+yellow carpet
+yellow concrete
+yellow concrete powder
+yellow dye
+yellow glazed terracotta
+yellow shulker box
+yellow stained glass
+yellow stained glass pane
+yellow terracotta
+yellow wool
+zombie head

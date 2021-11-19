@@ -1,0 +1,76 @@
+amber
+aqua
+azure
+blue
+beige
+black
+brown
+bronze
+blond
+blonde
+cyan
+crimson
+charcoal
+dark red
+dark
+dandelion
+dark green
+dark blue
+ebony
+fuchsia
+green
+grey
+gray
+gold
+hazel
+indigo
+ivory
+infared
+kyrin
+khaki
+lilac
+lavender
+lemon
+lime
+light
+magenta
+mint
+maroon
+navy
+nellow
+navy blue
+orchid
+orangered
+orange
+olive
+pear
+peach
+pink
+plum
+purple
+pumpkin
+quartz
+queen blue
+queen pink
+red
+rose
+royal blue
+royal purple
+ruby
+rust
+scarlet
+sky blue
+sky
+silver
+tan
+thistle
+tomato
+teal
+turquoise
+ultraviolet
+ultra violet
+violet
+viridian
+white
+yellow
+yapan
